@@ -1,0 +1,23 @@
+{
+    "name": "TMP36",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v1.0.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
